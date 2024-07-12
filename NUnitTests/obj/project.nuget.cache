@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwhMcPi/+Rs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rikesh\\Documents\\MS_N_X_Unit_Testing\\NUnitTests\\NUnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rikesh\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\rikesh\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

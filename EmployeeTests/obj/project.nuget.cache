@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f36gcEUq16A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rikesh\\Documents\\MS_N_X_Unit_Testing\\EmployeeTests\\EmployeeTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rikesh\\.nuget\\packages\\mstest.testframework\\3.4.3\\mstest.testframework.3.4.3.nupkg.sha512",
+    "C:\\Users\\rikesh\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\rikesh\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
